@@ -1,1 +1,1 @@
-
+Placeholder for project specifications.
